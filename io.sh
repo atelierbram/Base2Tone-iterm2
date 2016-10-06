@@ -25,6 +25,10 @@ overwrite_to_file()
   base16-builder --scheme "db/schemes/base2tone-cave.yml" --template "db/templates/iterm2/light.ejs" > "ColorPresets/base2tone-cave-light.itermcolors"
   base16-builder --scheme "db/schemes/base2tone-heath.yml" --template "db/templates/iterm2/dark.ejs" > "ColorPresets/base2tone-heath-dark.itermcolors"
   base16-builder --scheme "db/schemes/base2tone-heath.yml" --template "db/templates/iterm2/light.ejs" > "ColorPresets/base2tone-heath-light.itermcolors"
+  base16-builder --scheme "db/schemes/base2tone-drawbridge.yml" --template "db/templates/iterm2/dark.ejs" > "ColorPresets/base2tone-drawbridge-dark.itermcolors"
+  base16-builder --scheme "db/schemes/base2tone-drawbridge.yml" --template "db/templates/iterm2/light.ejs" > "ColorPresets/base2tone-drawbridge-light.itermcolors"
+  base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/iterm2/dark.ejs" > "ColorPresets/base2tone-meadow-dark.itermcolors"
+  base16-builder --scheme "db/schemes/base2tone-meadow.yml" --template "db/templates/iterm2/light.ejs" > "ColorPresets/base2tone-meadow-light.itermcolors"
  }
 
 # execute it
