@@ -1,1 +1,5 @@
 .DS_Store
+tools/
+Xresources/
+xrdb/
+xrdb2Xresources.py
