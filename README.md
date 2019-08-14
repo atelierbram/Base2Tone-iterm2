@@ -95,7 +95,7 @@ Base16 Builder is available on NPM<sup>1</sup>, you can install it on your machi
 $ npm install --global base16-builder
 ```
 
-Typing `io.sh` and hitting enter from the command line in the root folder, will output the gererated iTerm code-highlighting files in the `ColorPresets` folder. They all come in a dark and light variation, though most were originally conceived as dark background themes.
+Typing `./io.sh` and hitting enter from the command line in the root folder, will output the gererated iTerm code-highlighting files in the `ColorPresets` folder. They all come in a dark and light variation, though most were originally conceived as dark background themes.
 
 ```bash
 base16-builder --scheme "db/schemes/base2tone-evening.yml" --template "db/templates/iterm2/dark.ejs" > "ColorPresets/base2tone-evening-dark.itermcolors"
@@ -120,7 +120,7 @@ The light version of the Morning theme, and dark versions of Evening, Sea, Space
 - [Alois](https://github.com/aloisdg) and [Alex Booker](https://github.com/bookercodes) for rejuvenating the best color-theme builder tool on the internet: [Base16 Builder](https://github.com/base16-builder/base16-builder)
 
 ### License
-Copyright (c) 2016 [Bram de Haan](http://atelierbramdehaan.nl/)
+Copyright (c) 2016 [Bram de Haan](https://atelierbramdehaan.nl/)
 
 Released under [MIT Licence](http://atelierbram.mit-license.org)
 
